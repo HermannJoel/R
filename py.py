@@ -1,2 +1,4 @@
-print("Hello world")
-print("My name id Joel")
+print("My portfolio Projects")
+print("Description of Projects")
+
+
