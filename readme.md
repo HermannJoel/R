@@ -2,4 +2,4 @@
 
 ----
 
-* Project 1: Inflation Expectation: Project Overview
+* Project 1: Bulldozer Sale Price Prediction: Project Overview
