@@ -1,3 +1,2 @@
-# Examples real life data machine learning projects
+# Examples real life data machine learning projects with R
 ---
-* Project 1: Bulldozers Sale Price Prediction. Project Overview
