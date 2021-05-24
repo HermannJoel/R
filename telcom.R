@@ -10,14 +10,12 @@
 # The business can analyze all relevant customer data and develop focused customer retention programs.
 #Data:Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 #-Customers who left within the last month – the column is called Churn
-
-The raw data contains 7043 rows (customers) and 21 columns (features).
-
-The “Churn” column is our target.
+#The raw data contains 7043 rows (customers) and 21 columns (features).
+#The “Churn” column is our target.
+options(scipen = 999)#Enable any decimal point being rounded off as scientific notation to be schown as decimal point itself 
 telcom <- read.csv(file.choose())
 str(telcom)
 summary(telcom)
-
 sapply(telcom, function(x){unique(x) %>% NROW()})
 #check the class distribution of target
 #To look for a dominant category in any of the vaiables, If a category fill almost the entire
