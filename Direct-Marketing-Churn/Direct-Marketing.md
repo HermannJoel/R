@@ -6,10 +6,10 @@
 
 * Goal:
 
-  The goil is to predict if a given client will subscribe to a term deposit. 
+  The goal is to predict if a given client will subscribe to a term deposit. 
 
 * Data: 
   
-  This data is related wit direct marketing campaigns of a portuguese bank institution.
+  This data is linked with direct marketing campaign of a portuguese bank institution.
 
 ---
